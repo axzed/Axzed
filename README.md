@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋，I'm Xue Wenchao(Fate Gravity)
 
 <!--
 **Axzed/Axzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently *on studing*
+- 🔭 I’m currently on *studing*
 - 🌱 I’m currently learning  *C/C++/C#/unity/unreal engine*
 - 👯 I’m looking to collaborate on *game production*
 - 🤔 I’m looking for help with *how to make a 2D rogue like game using unity*
