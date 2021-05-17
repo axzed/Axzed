@@ -12,7 +12,7 @@
 ### Top Use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axzed&layout=compact&theme=tokyonight)
 
-### My Repositories
+### My Popular Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic&theme=tokyonight)](https://github.com/Axzed/Algorithm-practic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=C-Cpp&theme=tokyonight)](https://github.com/Axzed/C-Cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Java&theme=tokyonight)](https://github.com/Axzed/Java)
