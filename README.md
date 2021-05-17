@@ -6,13 +6,13 @@
 -   📫 How to reach me:
 [![gmail](https://img.shields.io/badge/-waxwc1491224820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waxwc1491224820@gmail.com)](mailto:waxwc1491224820@gmail.com)
 
-### My Status:
+### 🔨My Status:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzed&show_icons=true&theme=tokyonight)
 
-### Top Use
+### 📈Top Use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axzed&layout=compact&theme=tokyonight)
 
-### My Popular Repositories
+### 🌆My Popular Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic&theme=tokyonight)](https://github.com/Axzed/Algorithm-practic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=C-Cpp&theme=tokyonight)](https://github.com/Axzed/C-Cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Java&theme=tokyonight)](https://github.com/Axzed/Java)
