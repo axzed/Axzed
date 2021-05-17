@@ -10,11 +10,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzed&show_icons=true&theme=tokyonight)
 
 ### Top Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axzed&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axzed&layout=compact&theme=tokyonight)
 
 ### My Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic)](https://github.com/Axzed/Algorithm-practic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=C)](https://github.com/Axzed/C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic&theme=tokyonight)](https://github.com/Axzed/Algorithm-practic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=C&theme=tokyonight)](https://github.com/Axzed/C)
 
 
 
