@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzed&show_icons=true&theme=tokyonight)
 
 ### Top Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axzec&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axzed&layout=compact&theme=vue-dark)
 
 ### My Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic)](https://github.com/anuraghazra/github-readme-stats)
