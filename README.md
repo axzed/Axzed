@@ -1,4 +1,4 @@
-### Hi there 👋，I'm Xue Wenchao(Fate Gravity)
+### Hi there 🎶，I'm Xue Wenchao(Fate Gravity) ，🎶
 
 -   🔭 I’m currently working on *learning*
 -   🌱 I’m currently learning *C/C++/C#/Java/unity/unreal engine*
