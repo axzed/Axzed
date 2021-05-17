@@ -9,6 +9,9 @@
 ### My Status:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzed&show_icons=true&theme=tokyonight)
 
+### Top Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axzed)
+
 ### My Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=C)](https://github.com/anuraghazra/github-readme-stats)
