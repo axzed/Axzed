@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/home
 - 😄 Pronouns: FateGravity
 - ⚡ Fun fact: game and music
--->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzed&show_icons=true&theme=tokyonight)
+-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzed&show_icons=true&theme=tokyonight)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic)](https://github.com/anuraghazra/github-readme-stats)
 
