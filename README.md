@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on XAUFE
-- 🌱 I’m currently learning  C/C++/C#/unity/unreal engine
-- 👯 I’m looking to collaborate on game production
-- 🤔 I’m looking for help with how to make a 2D rogue like game using unity
-- 💬 Ask me about anything you want to ask
-- 📫 How to reach me: https://twitter.com/home
-- 😄 Pronouns: FateGravity
-- ⚡ Fun fact: game and music
+- 🔭 I’m currently *on studing*
+- 🌱 I’m currently learning  *C/C++/C#/unity/unreal engine*
+- 👯 I’m looking to collaborate on *game production*
+- 🤔 I’m looking for help with *how to make a 2D rogue like game using unity*
+- 💬 Ask me about *anything you want to ask*
+- 📫 How to reach me: *https://twitter.com/home*
+- 😄 Pronouns: *FateGravity*
+- ⚡ Fun fact: *ame and music*
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzed&show_icons=true&theme=tokyonight)
