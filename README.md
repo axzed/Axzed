@@ -16,8 +16,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic&theme=tokyonight)](https://github.com/Axzed/Algorithm-practic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=C-Cpp&theme=tokyonight)](https://github.com/Axzed/C-Cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Java&theme=tokyonight)](https://github.com/Axzed/Java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Unity-Project&theme=tokyonight)](https://github.com/Axzed/Unity-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Unreal-Project&theme=tokyonight)](https://github.com/Axzed/Unreal-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=golang&theme=tokyonight)](https://github.com/Axzed/golang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Python&theme=tokyonight)](https://github.com/Axzed/Python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Music-Demo&theme=tokyonight)](https://github.com/Axzed/Music-Demo)
 
 ### 🛠️Tools（Code & Music） 
