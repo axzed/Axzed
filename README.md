@@ -15,7 +15,7 @@
 ### 🌆My Popular Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic&theme=tokyonight)](https://github.com/Axzed/Algorithm-practic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=C-Cpp&theme=tokyonight)](https://github.com/Axzed/C-Cpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=golang&theme=tokyonight)](https://github.com/Axzed/Go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Go&theme=tokyonight)](https://github.com/Axzed/Go)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Python&theme=tokyonight)](https://github.com/Axzed/Python)
 
 ### 🛠️Tools（Code & Music） 
