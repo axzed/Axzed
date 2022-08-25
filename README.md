@@ -21,7 +21,7 @@
 ### 🛠️Tools（Code & Music） 
 
 ### 🏆OJ（Algorithm Noob）
-
+![LeetCode](https://leetcode.cn/u/fate_gravity/)
 ### 🎼Music Producer Account（Follow Me）
 
 ### ✨Visitors
