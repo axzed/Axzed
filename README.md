@@ -6,24 +6,6 @@
 -   📫 How to reach me:
 [![gmail](https://img.shields.io/badge/-waxwc1491224820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waxwc1491224820@gmail.com)](mailto:waxwc1491224820@gmail.com)
 
-### 🔨My Status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axzed&show_icons=true&theme=tokyonight)
-
-### 📈Top Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axzed&layout=compact&theme=tokyonight)
-
-### 🌆My Popular Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=go-course-note&theme=tokyonight)](https://github.com/Axzed/go-course-note)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Algorithm-practic&theme=tokyonight)](https://github.com/Axzed/Algorithm-practic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=C-Cpp&theme=tokyonight)](https://github.com/Axzed/C-Cpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=Python&theme=tokyonight)](https://github.com/Axzed/Python)
-
-### 🛠️Tools（Code & Music） 
-
-### 🏆OJ（Algorithm Noob）
-![LeetCode](https://leetcode.cn/u/fate_gravity/)
-### 🎼Music Producer Account（Follow Me）
-
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Axzed/ismlhbb.svg?cache=remove)](#)
 
