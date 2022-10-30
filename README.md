@@ -1,10 +1,9 @@
-### Hi there 🎶，I'm Xue Wenchao(Fate Gravity) ，🎶
-
--   🔭 I’m currently working on *learning*
--   🌱 I’m currently learning *C/C++/Java/Go/JavaScript*
--   💬 Ask me about anything [here](https://github.com/Axzed/Axzed/issues)
--   📫 How to reach me:
-[![gmail](https://img.shields.io/badge/-waxwc1491224820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waxwc1491224820@gmail.com)](mailto:waxwc1491224820@gmail.com)
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
 
 ### majoring in:
 - Go ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
