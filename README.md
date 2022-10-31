@@ -22,6 +22,8 @@
 <br/>
 <br/>
 
+![](https://raw.githubusercontent.com/这里更换为你的 GitHub ID/这里更换为你的 GitHub ID/main/assets/github-contribution-grid-snake.svg)
+
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="http://www.axzed.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
