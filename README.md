@@ -73,10 +73,6 @@
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-
 ### Contact Me
 - Email(Personal): 1491224820@qq.com
 - Email(Work): waxwc0715182062@gmail.com
