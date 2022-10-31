@@ -14,7 +14,7 @@
 <br/>
 
 -   🔭 I’m currently working on *learning*
--   🌱 I’m currently learning *python,algorithm and so on*
+-   🌱 I’m currently learning *Go,Rust and so on*
 -   💬 Ask me about anything [here](https://github.com/axzed/Axzed/issues)
 -   📫 How to reach me:
 [![gmail](https://img.shields.io/badge/-waxwc149122482@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waxwc149122482@gmail.com)](mailto:waxwc1491224820@gmail.com)
