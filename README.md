@@ -22,7 +22,8 @@
 <br/>
 <br/>
 
-![](https://raw.githubusercontent.com/这里更换为你的 GitHub ID/这里更换为你的 GitHub ID/main/assets/github-contribution-grid-snake.svg)
+### 🐍 Fxxk!Don't eat my contributions!!!
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/axzed/Axzed/assets/github-contribution-grid-snake.svg" /></div>
 
 <!-- 个人资料徽标 -->
 <div align="center">
