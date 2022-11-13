@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-### I'm Xue Wenchao（axzed） .
+### I'm Fate Gravity（axzed） .
 
 <br/>
 
