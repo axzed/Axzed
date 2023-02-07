@@ -103,7 +103,6 @@
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Axzed&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Contact Me
 - Email(Personal): 1491224820@qq.com
