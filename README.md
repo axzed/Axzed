@@ -47,8 +47,12 @@
 <a href="https://github.com/axzed/vex-project-backend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=vex-project-backend&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
+<a href="https://github.com/axzed/bluebell">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=bluebell&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
 <a href="https://github.com/axzed/go-tools">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=go-tools&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
 </div>
 
 💪 正在学习: 
