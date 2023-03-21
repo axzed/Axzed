@@ -49,11 +49,11 @@
 <a href="https://github.com/axzed/vex">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=vex&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   
-<a href="https://github.com/axzed/vex-project-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=vex-project-backend&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/axzed/vex-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=vex-project&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   
-<a href="https://github.com/axzed/vex-project-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=vex-project-frontend&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/axzed/godis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=godis&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   
 <a href="https://github.com/axzed/bluebell">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axzed&repo=bluebell&theme=dark&bg_color=0d1117&hide_border=true" /></a>
